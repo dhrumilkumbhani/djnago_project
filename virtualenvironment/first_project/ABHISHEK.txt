@@ -1,0 +1,5 @@
+7 INPUT AND OUTPUT
+
+str : aapplid escape sequence humad readable
+ repr : official represebtration ecsacpe not applied
+ 
