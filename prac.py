@@ -76,7 +76,7 @@
 # print(os.getcwd())
 
 # str1="tea for abhi"
-# str2=str1.replace('tea','cbghxchdx')
+# str2=str1.replace('tea','coffee','cbghxchdx')
 # print(str2)
 
 # 'abhi is a good'.replace('abhi','khatam')
@@ -101,7 +101,7 @@
 # import reprlib
 # print(reprlib.repr(set('abcshdfhiughruihgr')))
 # import pprint
-# t = [[[['black', 'cyan'], 'white', ['green', 'red']], [['magenta', 'yellow'], 'blue']]]
+# t = [[[['black', 'cyan'], 'white', ['green', 'red']], [['magenta', 'yellow'], 'blue light']]]
 # print(t)
 # # pprint.pprint(t)
 # import textwrap
